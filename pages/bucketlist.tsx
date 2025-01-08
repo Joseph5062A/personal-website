@@ -43,14 +43,14 @@ const BucketList: NextPage = () => {
             <p>Write and publish a book</p>
             <p className='line-through'>Have my name on a patent (<a href='https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/20230342435' target="_blank" rel="noreferrer" className='hover:text-teal underline hover:cursor-nesw-resize'>US20230342435</a>)</p>
             <p>Celebrate the Chinese New Year in China</p>
-            <p>Achieve zero debt</p>
+            <p className='line-through'>Achieve zero debt (November, 2024)</p>
             <p className='line-through'>Stay in a European hostel (September, 2023)</p>
             <p>Summit Mount Kilimanjaro</p>
             <p>Complete every <a href='https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU' target="_blank" rel="noreferrer" className='hover:text-teal underline hover:cursor-nesw-resize'>Blind 75</a> question</p>
             <p className='line-through'>Collect 50 stars in <a href='https://github.com/jwmke/AdventOfCode' target="_blank" rel="noreferrer" className='hover:text-teal underline hover:cursor-nesw-resize'>Advent of Code</a> (December, 2023)</p>
             <p>Unlock every <a href='https://en.wikipedia.org/wiki/The_Binding_of_Isaac_(video_game)' target="_blank" rel="noreferrer" className='hover:text-teal underline hover:cursor-nesw-resize'>Binding of Isaac</a> achievement</p>
             <p>Climb a V8 boulder</p>
-            <p>Complete a sub-3hr Olympic triathlon</p>
+            <p>Run the NYC Marathon</p>
           </div>
         </div>
       </div>

@@ -13,11 +13,11 @@ const Portfolio = () => {
                             &lt;present&gt;
                         </p>
                         <p className='text-white text-xl mt-5 ml-6'>
-                            {"👕 Supply chain engineer @"}  <a href="https://kohls.com" target="_blank" rel="noreferrer" className="underline">{" Kohl's"}</a>
+                            {/* {"🌏 Learning Korean, 안녕하세요!"} */}
+                            {"🌏 Running, reading, pacticing photography, and learning 한국인"}
                         </p>
                         <p className='text-white text-xl mt-8 ml-6'>
-                        {/* {"🌏 Learning Korean, 안녕하세요!"} */}
-                        {"⛏️ Advancing the future of mineral exploration @ "} <a href="https://durin.com" target="_blank" rel="noreferrer" className="underline">{" Durin"}</a>
+                            {"👕 Supply chain engineer @"}  <a href="https://kohls.com" target="_blank" rel="noreferrer" className="underline">{" Kohl's"}</a>
                         </p>
                         <p className='text-white text-xl mt-8 ml-6 mb-5'>
                             {"🧠 Building & learning about "}
@@ -35,8 +35,11 @@ const Portfolio = () => {
                             &lt;past&gt;
                         </p>
                         <p className='text-white text-xl mt-5 ml-6'>
-                            {"🧀 Wisconsin native, born and raised"}
+                            {"⛏️ Helped advance the future of mining @ "} <a href="https://durin.com" target="_blank" rel="noreferrer" className="underline">{" Durin"}</a>
                         </p>
+                        {/* <p className='text-white text-xl mt-5 ml-6'>
+                            {"🧀 Wisconsin native, born and raised"}
+                        </p> */}
                         {/* <p className='text-white text-xl mt-8 ml-6'>
                             {"🐊 Migrated to Florida for a year"}
                         </p> */}
